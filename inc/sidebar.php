@@ -3,8 +3,8 @@
   <aside class="main-sidebar sidebar ">
 
     <!-- Brand Logo -->
-    <a href="https://mayurik.com" class="brand-link">
-      <img src="dist/img/log.jpg" alt="logo" class="brand-image ">
+    <a href="" class="brand-link">
+      <img src="dist/img/logo.png" alt="logo" class="brand-image ">
      
     </a>
 

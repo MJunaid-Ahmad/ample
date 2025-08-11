@@ -21,17 +21,12 @@
     <section class="content" style="min-height:80vh;">
      <div  class="head">
 
-      <div class="info-box bg-cards-007">
-              <div class="info-box-content  text-center">
-                
-                <span class="sell"><p >Mayuri K is the freelancer working on website designing and web based application development. <br>She provide service of website designing and web application development worldwide. she also provide Source code for Academic projects and commercial projects.
-</p></span><b>If you have any requirement related to Project Development :<a href="https://mayurik.com">Contact here</a></b><br>
-                
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-</div>
-      <div class="container-fluid">
+      
+             <!-- Cut Content No 1  -->
+
+
+
+             <div class="container-fluid">
         <!-- .row -->
         <div class="row">
 

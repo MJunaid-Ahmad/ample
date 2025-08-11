@@ -22,7 +22,7 @@ if ($Ouser->is_login() != false) {
 		<div class="authincation-content">
 			
 			<a class="login-logo " href="">
-				<img src="dist/img/log.jpg " alt="" height="200px" width="auto" >
+				<img src="dist/img/logo.jpeg" alt="" height="200px" width="auto" >
 			</a>
 				<div class="mb-4">
 				
@@ -60,10 +60,10 @@ if ($Ouser->is_login() != false) {
 					</div>
 				</form>
 
-				<div class="new-account mt-2 tag">
+				<!-- <div class="new-account mt-2 tag">
 					<b>If you have any requirement related to Project Development : <a href="https://mayurik.com">Click here</a></b>
 					</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 		<div class="col-lg-6 col-md-5 d-flex box-skew1">
